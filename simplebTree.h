@@ -15,7 +15,7 @@ typedef struct binarytree
 
 btree* createNode(int data);
 btree* createTree();
-btree* printTree(btree*);
+void printTree(btree*);
 void   deleteTree();
 btree* createNode(int num)
 {
