@@ -71,7 +71,7 @@ void printList(struct node *node)
     }
 } 
  
-/* Drier program to test above functions*/
+/* Driver program to test above functions*/
 int main()
 {
   /* Start with the empty list */
