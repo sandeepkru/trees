@@ -7,6 +7,7 @@
 // Full Nodes = 3 (1,2,3)
 #include <iostream>
 #include <queue>
+#include <algorithm>
 
 #include "simplebTree.h"
 
